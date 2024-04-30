@@ -1,5 +1,5 @@
 Instructions
-git clone https://github.com/Shrey-Srivastava21/movie.git
+git clone https://github.com/2200032644-midhun/SDP.git
 
 Install node dependencies
 
